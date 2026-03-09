@@ -85,8 +85,6 @@ What Each Extension Does:
   Right-click any HTML file and "Open with Live Server" for instant preview
 - **[esbenp.prettier-vscode](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)**:
   Automatically formats your HTML, CSS, JS code
-- **[bradlc.vscode-tailwindcss](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)**:
-  CSS autocomplete and suggestions
 - **[formulahendry.auto-rename-tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)**:
   When you rename an opening tag, it automatically renames the closing tag
 - **[ms-vscode.vscode-html-css-preview](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-html-css-preview)**:
@@ -95,9 +93,5 @@ What Each Extension Does:
   Alternative live server (backup option)
 - **[htmlhint.vshtmlhint](https://marketplace.visualstudio.com/items?itemName=htmlhint.vshtmlhint)**:
   Lints and validates HTML code for errors and best practices
-- **[ecmel.vscode-html-css](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css)**:
-  CSS class and ID completion for HTML
 - **[zignd.html-css-class-completion](https://marketplace.visualstudio.com/items?itemName=zignd.html-css-class-completion)**:
   Provides CSS class name completion in HTML files
-- **[pranaygp.vscode-css-peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek)**:
-  Peek and navigate to CSS definitions from HTML
