@@ -1,7 +1,5 @@
 # Student Project Template
 
-## 📋 IMPORTANT: Working with GitHub Codespaces
-
 ### 🚨 Critical Rules - READ FIRST!
 
 #### **1. ALWAYS Work in Your Codespace - NEVER Edit Directly on GitHub**
@@ -49,7 +47,24 @@
 
 ---
 
-**🎯 Remember**: Commit and push your changes every time you finish working to keep your project safe!
+**Remember**: Commit and push your changes every time you finish working to keep your project safe!
+
+### 👥 Adding Joey as a Collaborator
+
+1. **Go to your repository** on GitHub.com
+2. **Click "Settings"** tab (next to Code, Issues, Pull requests, etc.)
+3. **Click "Collaborators"** in the left sidebar
+4. **Click "Add people"** button
+5. **Type your teacher's GitHub username:** `profJoey`
+6. **Click "Add `profJoey` to this repository"**
+7. **Choose permission level:** Select **"Write"**
+
+**What This Does**
+
+- I can view your code and progress
+- I can leave comments and feedback on your work
+- I can see your commit history
+- You keep full ownership of your repository
 
 ### 🌐 Publishing to GitHub Pages
 

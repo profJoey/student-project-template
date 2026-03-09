@@ -6,14 +6,11 @@
       "extensions": [
         "ms-vscode.live-server",
         "esbenp.prettier-vscode",
-        "bradlc.vscode-tailwindcss",
         "formulahendry.auto-rename-tag",
         "ms-vscode.vscode-html-css-preview",
         "ritwickdey.liveserver",
         "htmlhint.vshtmlhint",
-        "ecmel.vscode-html-css",
-        "zignd.html-css-class-completion",
-        "pranaygp.vscode-css-peek"
+        "zignd.html-css-class-completion"
       ],
       "settings": {
         "editor.formatOnSave": true,
@@ -24,9 +21,16 @@
         "html.completion.attributeDefaultValue": "doublequotes",
         "css.validate": true,
         "css.completion.completePropertyWithSemicolon": true,
+        "css.completion.triggerPropertyValueCompletion": true,
         "editor.wordWrap": "on",
         "emmet.triggerExpansionOnTab": true,
-        "emmet.showSuggestionsAsSnippets": true
+        "emmet.showSuggestionsAsSnippets": true,
+        "editor.quickSuggestions": {
+          "other": true,
+          "comments": false,
+          "strings": true
+        },
+        "editor.suggest.insertMode": "replace"
       }
     }
   },
