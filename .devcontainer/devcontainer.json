@@ -4,6 +4,8 @@
   "customizations": {
     "vscode": {
       "extensions": [
+        "github.copilot",
+        "github.copilot-chat",
         "ms-vscode.live-server",
         "esbenp.prettier-vscode",
         "formulahendry.auto-rename-tag",
